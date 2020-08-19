@@ -1,9 +1,1 @@
-Hi Karthik
-<<<<<<< HEAD
- good morning 123
-=======
-edited
->>>>>>> 32f22f861030cc7b0c627418ca989e1b9a4c9a76
-
-
-Hello
+Hi Hello 6:47 19/08/2020
